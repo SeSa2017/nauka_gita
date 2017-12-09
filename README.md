@@ -15,12 +15,5 @@ Pierwszy projekt w gita
   curl google.com
   ```
 
-  2.
-git status
-2. Lubie uczyc sie gita
-Lubie uczyc sie tez innych programow
-
-`sekcje deploy'
-3. Sprawdz czy dziala
-```
-curl api.example.com``  
+##deploy
+1. Lubie uczyc sie gita
